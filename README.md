@@ -1,9 +1,6 @@
 # Insurance-data-analysis
 
-Dashboard Link - 
-<p>
-<iframe title="insurance" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmM0NTQ2YTAtOGI0My00ZTM5LTkwZDktNTZkZWNkNDg4NTYyIiwidCI6IjU4YWYyNDZhLWVlNzYtNGYxYS05YzBmLWU0ZmY1Y2JjYTU1ZiJ9" frameborder="0" allowFullScreen="true"></iframe>
-</p>
+Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiNmM0NTQ2YTAtOGI0My00ZTM5LTkwZDktNTZkZWNkNDg4NTYyIiwidCI6IjU4YWYyNDZhLWVlNzYtNGYxYS05YzBmLWU0ZmY1Y2JjYTU1ZiJ9
 
 
 Dashboard Overview
