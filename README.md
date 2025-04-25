@@ -1,6 +1,11 @@
 # Insurance-data-analysis
 
 Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiNmM0NTQ2YTAtOGI0My00ZTM5LTkwZDktNTZkZWNkNDg4NTYyIiwidCI6IjU4YWYyNDZhLWVlNzYtNGYxYS05YzBmLWU0ZmY1Y2JjYTU1ZiJ9
+![image](https://github.com/user-attachments/assets/1a68db6f-c83d-4cc5-a2da-3131546e231d)
+
+![image](https://github.com/user-attachments/assets/ff5cd225-5c8d-42f3-a05b-4b6cb3fcc853)
+
+![image](https://github.com/user-attachments/assets/a81f7dc4-3afb-4ceb-926b-c6e3a6c0d42a)
 
 
 Dashboard Overview
