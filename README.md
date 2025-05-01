@@ -27,8 +27,8 @@ Clients by Gender and BMI Category:
 
 Revenue by Region and Age Category:
 - South East contributes the highest revenue (₹5.36M), followed by North East (₹4.34M).
-- Adults and Seniors generate the most charges overall (~₹7M and ₹6.89M respectively).
-- Average Charges are highest in South East for all age categories.
+- Adults and Seniors generate the most charges overall (~₹7M and ₹6.89M, respectively).
+- Average Charges are highest in the South East for all age categories.
 
 Revenue by Region, Gender, BMI Category, and Children:
 - Female clients in South East have the highest total charges (₹2.36M).
